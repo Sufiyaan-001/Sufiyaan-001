@@ -1,5 +1,32 @@
 # 💫 About Me:
-Hi, I'm Mohammad Sufiyaan Khan! 👋<br>MSc AI student at King's College London | Passionate about leveraging machine learning for climate solutions and high-impact research | Bridging rigorous ML innovation with real-world applications<br>I'm a dedicated ML enthusiast, diving deep into the latest from NeurIPS and ICML, with a keen eye on weather forecasting breakthroughs like GraphCast and Pangu-Weather. My fascination lies in transformers, graph neural networks, and spatiotemporal modeling—tools I'm using to tackle complex challenges in climate science and beyond.<br>With 66+ certifications under my belt, I've honed my ability to rapidly master new domains, from attention mechanisms and neural operators to uncertainty quantification. My published research showcases hands-on expertise in conducting experiments and delivering clear insights.<br>🔭 Currently Working On<br><br>MSc dissertation at King's College London: Exploring ML applications in computer vision, including emotion recognition and spatiotemporal prediction systems.<br>Research Assistant role: Modeling decentralized trading networks for continuous bilateral execution in OTC markets.<br><br>👯 Open to Collaborating On<br><br>AI/ML projects in computer vision, NLP, robotics, or climate AI—let's build something transformative!<br><br>🤝 Seeking Guidance On<br><br>Scaling ML deployments, agentic AI systems, and federated learning frameworks.<br><br>🌱 Currently Learning<br><br>Advanced deep learning architectures (transformers & GNNs), plus brushing up on German for global collaborations.<br><br>💬 Ask Me About<br><br>Machine learning fundamentals, computer vision pipelines, TensorFlow/PyTorch workflows, emotion recognition tech, or life as an international student at King's College London.<br><br>⚡ Fun Fact<br><br>I juggle a full master's workload with 66+ certs because learning new tech is my ultimate hobby—I've even built models for gaze detection, cancer risk prediction, and real-time gas monitoring!<br><br>Check out my projects below, and feel free to connect on LinkedIn or drop me a line at ksufiyaan1124@gmail.com. Let's innovate together! 🚀
+Hi, I'm Mohammad Sufiyaan Khan! 👋<br>MSc AI student at King's College London | Passionate about leveraging machine learning for climate solutions and high-impact research | Bridging rigorous ML innovation with real-world applications<br>I'm a dedicated ML enthusiast, diving deep into the latest from NeurIPS and ICML, with a keen eye on weather forecasting breakthroughs like GraphCast and Pangu-Weather. My fascination lies in transformers, graph neural networks, and spatiotemporal modeling—tools I'm using to tackle complex challenges in climate science and beyond.<br>With 66+ certifications under my belt, I've honed my ability to rapidly master new domains, from attention mechanisms and neural operators to uncertainty quantification. My published research showcases hands-on expertise in conducting experiments and delivering clear insights.<br>
+
+🔭 Currently Working On
+
+MSc dissertation at King's College London: Exploring ML applications in computer vision, including emotion recognition and spatiotemporal prediction systems.
+Research Assistant role: Modeling decentralized trading networks for continuous bilateral execution in OTC markets.
+
+👯 Open to Collaborating On
+
+AI/ML projects in computer vision, NLP, robotics, or climate AI—let's build something transformative!
+
+🤝 Seeking Guidance On
+
+Scaling ML deployments, agentic AI systems, and federated learning frameworks.
+
+🌱 Currently Learning
+
+Advanced deep learning architectures (transformers & GNNs), plus brushing up on German for global collaborations.
+
+💬 Ask Me About
+
+Machine learning fundamentals, computer vision pipelines, TensorFlow/PyTorch workflows, emotion recognition tech, or life as an international student at King's College London.
+
+⚡ Fun Fact
+
+I juggle a full master's workload with 66+ certs because learning new tech is my ultimate hobby—I've even built models for gaze detection, cancer risk prediction, and real-time gas monitoring!
+
+Check out my projects below, and feel free to connect on LinkedIn or drop me a line at ksufiyaan1124@gmail.com. Let's innovate together! 🚀
 
 
 ## 🌐 Socials:
