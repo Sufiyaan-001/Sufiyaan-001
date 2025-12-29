@@ -7,23 +7,23 @@ Hi, I'm Mohammad Sufiyaan Khan! 👋<br>MSc AI student at King's College London 
 
 👯 Open to Collaborating On
 
-AI/ML projects in computer vision, NLP, robotics, or climate AI—let's build something transformative!
+* AI/ML projects in computer vision, NLP, robotics, or climate AI—let's build something transformative!
 
 🤝 Seeking Guidance On
 
-Scaling ML deployments, agentic AI systems, and federated learning frameworks.
+* Scaling ML deployments, agentic AI systems, and federated learning frameworks.
 
 🌱 Currently Learning
 
-Advanced deep learning architectures (transformers & GNNs), plus brushing up on German for global collaborations.
+* Advanced deep learning architectures (transformers & GNNs), plus brushing up on German for global collaborations.
 
 💬 Ask Me About
 
-Machine learning fundamentals, computer vision pipelines, TensorFlow/PyTorch workflows, emotion recognition tech, or life as an international student at King's College London.
+* Machine learning fundamentals, computer vision pipelines, TensorFlow/PyTorch workflows, emotion recognition tech, or life as an international student at King's College London.
 
 ⚡ Fun Fact
 
-I juggle a full master's workload with 66+ certs because learning new tech is my ultimate hobby—I've even built models for gaze detection, cancer risk prediction, and real-time gas monitoring!
+* I juggle a full master's workload with 66+ certs because learning new tech is my ultimate hobby—I've even built models for gaze detection, cancer risk prediction, and real-time gas monitoring!
 
 Check out my projects below, and feel free to connect on LinkedIn or drop me a line at ksufiyaan1124@gmail.com. Let's innovate together! 🚀
 
