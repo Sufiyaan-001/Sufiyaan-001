@@ -1,6 +1,10 @@
 # 💫 About Me:
-Hi, I'm Mohammad Sufiyaan Khan! 👋<br>MSc AI student at King's College London | Passionate about leveraging machine learning for climate solutions and high-impact research | Bridging rigorous ML innovation with real-world applications.
+Hi, I'm Mohammad Sufiyaan Khan! 👋
+
+MSc AI student at King's College London | Passionate about leveraging machine learning for climate solutions and high-impact research | Bridging rigorous ML innovation with real-world applications.
+
 I'm a dedicated ML enthusiast, diving deep into the latest from NeurIPS and ICML, with a keen eye on weather forecasting breakthroughs like GraphCast and Pangu-Weather. My fascination lies in transformers, graph neural networks, and spatiotemporal modeling—tools I'm using to tackle complex challenges in climate science and beyond.
+
 With 66+ certifications under my belt, I've honed my ability to rapidly master new domains, from attention mechanisms and neural operators to uncertainty quantification. My published research showcases hands-on expertise in conducting experiments and delivering clear insights.<br>
 
 🔭 Currently Working On
