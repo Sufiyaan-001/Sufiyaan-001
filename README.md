@@ -13,7 +13,7 @@ With 66+ certifications under my belt, I've honed my ability to rapidly master n
 
 👯 Open to Collaborating On
 
-* AI/ML projects in computer vision, NLP, robotics, or climate AI—let's build something transformative!
+* AI/ML projects in computer vision, NLP, robotics, or climate AI. Hop on let's build something transformative!
 
 🤝 Seeking Guidance On
 
@@ -29,7 +29,7 @@ With 66+ certifications under my belt, I've honed my ability to rapidly master n
 
 ⚡ Fun Fact
 
-* I juggle a full master's workload with 66+ certs because learning new tech is my ultimate hobby—I've even built models for gaze detection, cancer risk prediction, and real-time gas monitoring!
+* I juggle a full master's workload with 66+ certs because learning new tech is my ultimate hobby, I've even built models for gaze detection, cancer risk prediction, and real-time gas monitoring!
 
 Check out my projects below, and feel free to connect on LinkedIn or drop me a line at ksufiyaan1124@gmail.com. Let's innovate together! 🚀
 
